@@ -1,0 +1,6 @@
+dist/
+.DS_Store
+official/
+build/
+scripts/
+CLAUDE.md
