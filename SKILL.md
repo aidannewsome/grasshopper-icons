@@ -111,7 +111,12 @@ opacity:  65-85 / 255  (about 25-33%)
 **Our notes,** the vocabulary the set already settles, worth reusing verbatim:
 
 - Serializable data types live on the Params sheet's black bevelled hexagons,
-  with the type drawn as a white glyph inside.
+  with the type drawn as a white glyph inside. Measured from his sources, the
+  hexagon is the one shape that ignores the 2px border: full bleed (0.5 to
+  23.5 wide, 1.5 to 21.5 tall, flat top and bottom), a radial fill from
+  `#454545` at the upper left down to `#000000`, a 1px black outline, a
+  bright white inner rim along the lit top-left edges and a faint one
+  opposite. A smaller or flat-filled hexagon reads wrong next to his.
 - His verbs have grammar, visible in Construct Point, Construct Domain and
   their partners. Construct shows the parts, drawn as themselves (the XYZ
   letters, the 0 and 1 digits), converging along faint dashed lines down
@@ -134,6 +139,20 @@ opacity:  65-85 / 255  (about 25-33%)
 - New subject matter still deserves a real drawing, not a collage of stock
   glyphs: a road drawn as a road beats an abstraction assembled from parts.
   Reserve the shared vocabulary for the concepts it already covers.
+- When the world already has a sign, use it: the info circle, waves for
+  water, mountains for terrain. An invented composition loses to a
+  universal one, and a metaphor nobody shares reads as noise.
+- Objects float. His subjects stand on nothing unless the ground is the
+  subject; bases, plinths and ground lines read as clutter at 24px.
+- Depth is extrusion: a lit top face, a shaded side face, a gradient front,
+  exactly his boxes. A flat front-on shape reads as a sticker beside them.
+- Fill the frame. The subject should own the ~20x20 artwork area; an icon
+  that huddles small or drifts to a corner reads broken among his.
+- Take the host's colours for the host's meanings: geometry a plugin
+  returns wears the amber. A set's identity comes from its held glyphs,
+  not from novel colours on everything.
+- A ribbon category icon is its own drawing at 16px, and greyscale, the
+  way the host draws its tab icons. Never a scaled or tinted copy.
 - Use round line joins on filled shapes. Mitred joins spike past the
   silhouette at acute corners and read as stray pixels at 24px.
 
@@ -167,6 +186,7 @@ what tells you which strokes to delete.
 - [ ] Shadow: +1/+1px, 2px blur, black at 25-33%, applied in raster after export
 - [ ] Dashes and checkers placed as individual pixels
 - [ ] Shared glyphs (arrows, points, planes) reused, not reinvented
+- [ ] Subject fills the artwork area and stands on nothing it does not need
 - [ ] Memorable silhouette, recognizable at a glance among 40 neighbours
 - [ ] None of: black outlines, unnecessary text, photorealism, uncaused perspective, meaningless transparency, downscaled masters
 
