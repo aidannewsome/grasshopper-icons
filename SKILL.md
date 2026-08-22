@@ -114,9 +114,13 @@ opacity:  65-85 / 255  (about 25-33%)
   with the type drawn as a white glyph inside. Measured from his sources, the
   hexagon is the one shape that ignores the 2px border: full bleed (0.5 to
   23.5 wide, 1.5 to 21.5 tall, flat top and bottom), a radial fill from
-  `#454545` at the upper left down to `#000000`, a 1px black outline, a
-  bright white inner rim along the lit top-left edges and a faint one
-  opposite. A smaller or flat-filled hexagon reads wrong next to his.
+  `#454545` at the upper left down to `#000000`, a 1px black outline, and a
+  white inner rim on both sides inset about 1.5px. The rims fade, never run
+  uniform: the lit top-left strip is driven by a radial falloff centred on
+  the top-left corner (about 72% white there, gone by mid-edge, his `tg71`),
+  and the bottom-right strip fades in toward the bottom right, peaking near
+  32% (his `g70`). A smaller, flat-filled, or evenly-rimmed hexagon reads
+  wrong next to his.
 - His verbs have grammar, visible in Construct Point, Construct Domain and
   their partners. Construct shows the parts, drawn as themselves (the XYZ
   letters, the 0 and 1 digits), converging along faint dashed lines down
