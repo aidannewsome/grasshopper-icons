@@ -93,6 +93,14 @@ opacity:  65-85 / 255  (about 25-33%)
 
 **Our notes:** he published 65/255 in the official guide and quoted 85/255 later from memory on the forum. We treat 65 as canonical and anything in that band as authentic.
 
+## Pictures, soft shadows and sweeps
+
+**Our notes,** from his sources: almost everything is vector, with three exceptions worth knowing before you copy them.
+
+- A picture only where the subject is a picture of colour: the colour charts in Colour XYZ and Colour RGB are embedded bitmaps.
+- Soft shadows cast inside an icon (Canvas Compass, Colour Swatch) are blurred black-and-white bitmaps used as transparency masks. In a new icon, draw the shadow as a vector shape with a blur filter or a radial transparency instead.
+- Cones and dials (Cone, Sketch, Rotate) use conic sweeps, which SVG cannot express. Use a linear or radial gradient instead, or, where the sweep is the point, a fan of thin wedges clipped to the shape.
+
 ## The details he sets by hand
 
 **David's rules:**
