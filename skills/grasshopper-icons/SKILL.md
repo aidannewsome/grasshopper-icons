@@ -190,7 +190,7 @@ what tells you which strokes to delete.
 
 ## Getting the originals
 
-Whether you're a person or an agent, pull reference icons from [github.com/aidannewsome/grasshopper-icons](https://github.com/aidannewsome/grasshopper-icons) rather than redrawing from memory. Its README is the full clickable directory, and everything is fetchable over plain HTTPS under one base:
+Whether you're a person or an agent, pull reference icons from [github.com/aidannewsome/grasshopper-icons](https://github.com/aidannewsome/grasshopper-icons) rather than redrawing from memory. Its README is the full clickable directory. Everything is fetchable over plain HTTPS under one base, or read from a local clone or `grasshopper-icons.zip` at the same paths under `icons/`:
 
 ```
 https://raw.githubusercontent.com/aidannewsome/grasshopper-icons/main/icons/

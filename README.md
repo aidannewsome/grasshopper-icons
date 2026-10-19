@@ -9,7 +9,9 @@ recovered from the Xara vector sources he published on the
 - Download everything: [grasshopper-icons.zip](icons/grasshopper-icons.zip)
 - Machine index: [manifest.json](icons/manifest.json)
 - Sheet template: [template.svg](icons/template.svg)
-- Drawing method: [SKILL.md](SKILL.md)
+- Drawing method: [SKILL.md](skills/grasshopper-icons/SKILL.md), which installs as a skill
+  for Claude Code, Codex, Cursor and other agents with
+  `npx skills add aidannewsome/grasshopper-icons`
 
 The recovery is close but not perfect. In the tables below, ✅ marks an
 icon whose every construct translated losslessly to SVG. 🟡 marks one that
