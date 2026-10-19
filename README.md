@@ -4,7 +4,7 @@ The original Grasshopper component icons, drawn by
 [David Rutten](https://ieatbugsforbreakfast.com/2012/07/12/on-icons/) and
 recovered from the Xara vector sources he published on the
 [official guide page](https://developer.rhino3d.com/guides/grasshopper/grasshopper-icons/).
-🟡 493/554 identified, 🟡 545/554 exact.
+🟡 493/554 identified, 🟡 547/554 exact.
 
 - Download everything: [grasshopper-icons.zip](icons/grasshopper-icons.zip)
 - Machine index: [manifest.json](icons/manifest.json)
@@ -23,8 +23,7 @@ put a name to an unidentified icon, [open an issue](../../issues).
 
 Letters in the icons are outlines of the fonts David used, so they look the
 same everywhere and no font files are shipped, since those fonts may not be
-redistributed. The two drawn in Angsana New, which we could not outline, stay
-as text.
+redistributed.
 
 ## Curves
 
@@ -642,7 +641,7 @@ Move, rotate, scale, mirror, morph and array. 🟡 29/31 identified, ✅ 31/31 e
 
 ## Vector
 
-Points, vectors, planes, grids and fields. 🟡 51/55 identified, 🟡 52/55 exact.
+Points, vectors, planes, grids and fields. 🟡 51/55 identified, 🟡 54/55 exact.
 [SVG](icons/vector/vector.svg),
 [PNG](icons/vector/vector.png),
 [Xara](icons/vector/vector.xar),
@@ -709,8 +708,8 @@ Points, vectors, planes, grids and fields. 🟡 51/55 identified, 🟡 52/55 exa
 | <a name="vector-xz-plane"></a><img src="icons/vector/png/xz-plane.png" width="24"> | XZ Plane | XZ | ✅ | [SVG](icons/vector/svg/xz-plane.svg), [PNG](icons/vector/png/xz-plane.png) |
 | <a name="vector-yz-plane"></a><img src="icons/vector/png/yz-plane.png" width="24"> | YZ Plane | YZ | ✅ | [SVG](icons/vector/svg/yz-plane.svg), [PNG](icons/vector/png/yz-plane.png) |
 | <a name="vector-r05-c05"></a><img src="icons/vector/png/vector-r05-c05.png" width="24"> | *unidentified* |  | ✅ | [SVG](icons/vector/svg/vector-r05-c05.svg), [PNG](icons/vector/png/vector-r05-c05.png) |
-| <a name="vector-r06-c03"></a><img src="icons/vector/png/vector-r06-c03.png" width="24"> | *unidentified* |  | 🟡 text | [SVG](icons/vector/svg/vector-r06-c03.svg), [PNG](icons/vector/png/vector-r06-c03.png) |
-| <a name="vector-r06-c04"></a><img src="icons/vector/png/vector-r06-c04.png" width="24"> | *unidentified* |  | 🟡 text | [SVG](icons/vector/svg/vector-r06-c04.svg), [PNG](icons/vector/png/vector-r06-c04.png) |
+| <a name="vector-r06-c03"></a><img src="icons/vector/png/vector-r06-c03.png" width="24"> | *unidentified* |  | ✅ | [SVG](icons/vector/svg/vector-r06-c03.svg), [PNG](icons/vector/png/vector-r06-c03.png) |
+| <a name="vector-r06-c04"></a><img src="icons/vector/png/vector-r06-c04.png" width="24"> | *unidentified* |  | ✅ | [SVG](icons/vector/svg/vector-r06-c04.svg), [PNG](icons/vector/png/vector-r06-c04.png) |
 | <a name="vector-r10-c01"></a><img src="icons/vector/png/vector-r10-c01.png" width="24"> | *unidentified* |  | ✅ | [SVG](icons/vector/svg/vector-r10-c01.svg), [PNG](icons/vector/png/vector-r10-c01.png) |
 
 ## License

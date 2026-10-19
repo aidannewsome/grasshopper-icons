@@ -7739,9 +7739,7 @@
   "subcategory": null,
   "description": null,
   "guid": null,
-  "approximations": [
-   "text"
-  ]
+  "approximations": []
  },
  {
   "sheet": "vector",
@@ -7755,9 +7753,7 @@
   "subcategory": null,
   "description": null,
   "guid": null,
-  "approximations": [
-   "text"
-  ]
+  "approximations": []
  },
  {
   "sheet": "vector",
