@@ -19,6 +19,11 @@ fractal noise), with the reason beside it. David published these sources in
 icons have changed in later versions. If something looks off, or you can
 put a name to an unidentified icon, [open an issue](../../issues).
 
+Letters in the icons are outlines of the fonts David used, so they look the
+same everywhere and no font files are shipped, since those fonts may not be
+redistributed. The two drawn in Angsana New, which we could not outline, stay
+as text.
+
 ## Curves
 
 Curve primitives, splines, analysis, division and offsets. 🟡 109/118 identified, ✅ 118/118 exact.
