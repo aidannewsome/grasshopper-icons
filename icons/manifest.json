@@ -4533,9 +4533,7 @@
   "subcategory": "Util",
   "description": "The canvas navigation compass widget in the corner of the Grasshopper canvas (not in the component server, identified by eye)",
   "guid": null,
-  "approximations": [
-   "fractal noise"
-  ]
+  "approximations": []
  },
  {
   "sheet": "parameters",
@@ -4591,9 +4589,7 @@
   "subcategory": "Input",
   "description": "Colour (palette) swatch",
   "guid": "9c53bac0-ba66-40bd-8154-ce9829b9db1a",
-  "approximations": [
-   "fractal noise"
-  ]
+  "approximations": []
  },
  {
   "sheet": "parameters",
@@ -5563,9 +5559,7 @@
   "subcategory": null,
   "description": null,
   "guid": null,
-  "approximations": [
-   "fractal noise"
-  ]
+  "approximations": []
  },
  {
   "sheet": "parameters",

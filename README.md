@@ -4,7 +4,7 @@ The original Grasshopper component icons, drawn by
 [David Rutten](https://ieatbugsforbreakfast.com/2012/07/12/on-icons/) and
 recovered from the Xara vector sources he published on the
 [official guide page](https://developer.rhino3d.com/guides/grasshopper/grasshopper-icons/).
-🟡 493/554 identified, 🟡 547/554 exact.
+🟡 493/554 identified, 🟡 550/554 exact.
 
 - Download everything: [grasshopper-icons.zip](icons/grasshopper-icons.zip)
 - Machine index: [manifest.json](icons/manifest.json)
@@ -406,7 +406,7 @@ Mesh primitives, triangulation and mesh editing. 🟡 42/47 identified, ✅ 47/4
 
 ## Parameters
 
-Data containers, primitive types and canvas widgets. 🟡 68/85 identified, 🟡 80/85 exact.
+Data containers, primitive types and canvas widgets. 🟡 68/85 identified, 🟡 83/85 exact.
 [SVG](icons/parameters/parameters.svg),
 [PNG](icons/parameters/parameters.png),
 [Xara](icons/parameters/parameters.xar),
@@ -426,11 +426,11 @@ Data containers, primitive types and canvas widgets. 🟡 68/85 identified, 🟡
 | <a name="parameters-boolean"></a><img src="icons/parameters/png/boolean.png" width="24"> | Boolean | Bool | ✅ | [SVG](icons/parameters/svg/boolean.svg), [PNG](icons/parameters/png/boolean.png) |
 | <a name="parameters-box"></a><img src="icons/parameters/png/box.png" width="24"> | Box | Box | ✅ | [SVG](icons/parameters/svg/box.svg), [PNG](icons/parameters/png/box.png) |
 | <a name="parameters-brep"></a><img src="icons/parameters/png/brep.png" width="24"> | Brep | Brep | ✅ | [SVG](icons/parameters/svg/brep.svg), [PNG](icons/parameters/png/brep.png) |
-| <a name="parameters-canvas-compass"></a><img src="icons/parameters/png/canvas-compass.png" width="24"> | Canvas Compass | Compass | 🟡 fractal noise | [SVG](icons/parameters/svg/canvas-compass.svg), [PNG](icons/parameters/png/canvas-compass.png) |
+| <a name="parameters-canvas-compass"></a><img src="icons/parameters/png/canvas-compass.png" width="24"> | Canvas Compass | Compass | ✅ | [SVG](icons/parameters/svg/canvas-compass.svg), [PNG](icons/parameters/png/canvas-compass.png) |
 | <a name="parameters-circle"></a><img src="icons/parameters/png/circle.png" width="24"> | Circle | Circle | ✅ | [SVG](icons/parameters/svg/circle.svg), [PNG](icons/parameters/png/circle.png) |
 | <a name="parameters-circular-arc"></a><img src="icons/parameters/png/circular-arc.png" width="24"> | Circular Arc | Arc | ✅ | [SVG](icons/parameters/svg/circular-arc.svg), [PNG](icons/parameters/png/circular-arc.png) |
 | <a name="parameters-colour"></a><img src="icons/parameters/png/colour.png" width="24"> | Colour | Col | ✅ | [SVG](icons/parameters/svg/colour.svg), [PNG](icons/parameters/png/colour.png) |
-| <a name="parameters-colour-swatch"></a><img src="icons/parameters/png/colour-swatch.png" width="24"> | Colour Swatch | Swatch | 🟡 fractal noise | [SVG](icons/parameters/svg/colour-swatch.svg), [PNG](icons/parameters/png/colour-swatch.png) |
+| <a name="parameters-colour-swatch"></a><img src="icons/parameters/png/colour-swatch.png" width="24"> | Colour Swatch | Swatch | ✅ | [SVG](icons/parameters/svg/colour-swatch.svg), [PNG](icons/parameters/png/colour-swatch.png) |
 | <a name="parameters-complex"></a><img src="icons/parameters/png/complex.png" width="24"> | Complex | C | ✅ | [SVG](icons/parameters/svg/complex.svg), [PNG](icons/parameters/png/complex.png) |
 | <a name="parameters-constant"></a><img src="icons/parameters/png/constant.png" width="24"> | Constant | constant | ✅ | [SVG](icons/parameters/svg/constant.svg), [PNG](icons/parameters/png/constant.png) |
 | <a name="parameters-curve"></a><img src="icons/parameters/png/curve.png" width="24"> | Curve | Crv | ✅ | [SVG](icons/parameters/svg/curve.svg), [PNG](icons/parameters/png/curve.png) |
@@ -499,7 +499,7 @@ Data containers, primitive types and canvas widgets. 🟡 68/85 identified, 🟡
 | <a name="parameters-r02-c13"></a><img src="icons/parameters/png/parameters-r02-c13.png" width="24"> | *unidentified* |  | 🟡 conic gradient | [SVG](icons/parameters/svg/parameters-r02-c13.svg), [PNG](icons/parameters/png/parameters-r02-c13.png) |
 | <a name="parameters-r02-c14"></a><img src="icons/parameters/png/parameters-r02-c14.png" width="24"> | *unidentified* |  | ✅ | [SVG](icons/parameters/svg/parameters-r02-c14.svg), [PNG](icons/parameters/png/parameters-r02-c14.png) |
 | <a name="parameters-r03-c01"></a><img src="icons/parameters/png/parameters-r03-c01.png" width="24"> | *unidentified* |  | ✅ | [SVG](icons/parameters/svg/parameters-r03-c01.svg), [PNG](icons/parameters/png/parameters-r03-c01.png) |
-| <a name="parameters-r03-c03"></a><img src="icons/parameters/png/parameters-r03-c03.png" width="24"> | *unidentified* |  | 🟡 fractal noise | [SVG](icons/parameters/svg/parameters-r03-c03.svg), [PNG](icons/parameters/png/parameters-r03-c03.png) |
+| <a name="parameters-r03-c03"></a><img src="icons/parameters/png/parameters-r03-c03.png" width="24"> | *unidentified* |  | ✅ | [SVG](icons/parameters/svg/parameters-r03-c03.svg), [PNG](icons/parameters/png/parameters-r03-c03.png) |
 | <a name="parameters-r03-c04"></a><img src="icons/parameters/png/parameters-r03-c04.png" width="24"> | *unidentified* |  | ✅ | [SVG](icons/parameters/svg/parameters-r03-c04.svg), [PNG](icons/parameters/png/parameters-r03-c04.png) |
 | <a name="parameters-r03-c14"></a><img src="icons/parameters/png/parameters-r03-c14.png" width="24"> | *unidentified* |  | ✅ | [SVG](icons/parameters/svg/parameters-r03-c14.svg), [PNG](icons/parameters/png/parameters-r03-c14.png) |
 | <a name="parameters-r03-c15"></a><img src="icons/parameters/png/parameters-r03-c15.png" width="24"> | *unidentified* |  | ✅ | [SVG](icons/parameters/svg/parameters-r03-c15.svg), [PNG](icons/parameters/png/parameters-r03-c15.png) |
