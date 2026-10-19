@@ -1,6 +1,6 @@
 ---
 name: grasshopper-icons
-description: Draw or review icons in the Grasshopper style, David Rutten's 24x24 pixel-grid method. Use when creating component icons for Grasshopper or Rhino plugins, or any icon set that should match the original Grasshopper look. Also the guide to fetching any original Grasshopper icon from this repo by component name.
+description: Draw or review icons in the Grasshopper style, David Rutten's 24x24 pixel-grid method. Use when creating component icons for Grasshopper or Rhino plugins, or any icon set that should match the original Grasshopper look. Also the guide to fetching any original Grasshopper icon by component name from github.com/aidannewsome/grasshopper-icons.
 ---
 
 # How the Grasshopper Icons Were Drawn
@@ -98,7 +98,7 @@ opacity:  65-85 / 255  (about 25-33%)
 **David's rules:**
 
 - **Dashed lines and checkerboards are placed pixel by pixel**: individual squares, positioned exactly. No dash tools, no pattern fills.
-- Avoid text if you can ("icons without text work best" is written right on his template). When unavoidable: big letters are Times New Roman, hand-nudged onto the pixel grid. Small letters and numerals use a **custom font he drew at exactly 7px tall** (squeezed to 6 or 5px when needed). The full character set is in the template legend, `icons/template.svg`.
+- Avoid text if you can ("icons without text work best" is written right on his template). When unavoidable: big letters are Times New Roman, hand-nudged onto the pixel grid. Small letters and numerals use a **custom font he drew at exactly 7px tall** (squeezed to 6 or 5px when needed). The full character set is in the legend of his [sheet template](https://raw.githubusercontent.com/aidannewsome/grasshopper-icons/main/icons/template.svg).
 
 ## Families and mimicry
 
@@ -137,24 +137,18 @@ opacity:  65-85 / 255  (about 25-33%)
   Polylines are dark runs with white dots at the vertices. Planes are
   perspective quads with an origin dot.
 - When a plugin adds its own concepts, give each exactly one glyph and hold
-  it across every icon: the same thing must never appear as a dot in one
-  icon and a globe in the next. Related components then form a family
-  automatically, the way his do.
-- New subject matter still deserves a real drawing, not a collage of stock
-  glyphs: a road drawn as a road beats an abstraction assembled from parts.
-  Reserve the shared vocabulary for the concepts it already covers.
-- When the world already has a sign, use it: the info circle, waves for
-  water, mountains for terrain. An invented composition loses to a
-  universal one, and a metaphor nobody shares reads as noise.
-- Objects float. His subjects stand on nothing unless the ground is the
-  subject; bases, plinths and ground lines read as clutter at 24px.
-- Depth is extrusion: a lit top face, a shaded side face, a gradient front,
-  exactly his boxes. A flat front-on shape reads as a sticker beside them.
-- Fill the frame. The subject should own the ~20x20 artwork area; an icon
-  that huddles small or drifts to a corner reads broken among his.
+  it across every icon, so related components form a family the way his
+  do. New subjects still get a real drawing of the thing, not a collage of
+  stock glyphs, and where the world already has a sign (the info circle,
+  a warning triangle) use it.
 - Take the host's colours for the host's meanings: geometry a plugin
   returns wears the amber. A set's identity comes from its held glyphs,
-  not from novel colours on everything.
+  not from novel colours.
+- Objects float and fill the frame. Subjects stand on nothing unless the
+  ground is the subject, and own the ~20x20 artwork area rather than
+  huddling small.
+- Depth is extrusion: a lit top face, a shaded side face, a gradient front,
+  exactly his boxes. A flat front-on shape reads as a sticker beside them.
 - A ribbon category icon is its own drawing at 16px, and greyscale, the
   way the host draws its tab icons. Never a scaled or tinted copy.
 - Use round line joins on filled shapes. Mitred joins spike past the
@@ -171,7 +165,7 @@ opacity:  65-85 / 255  (about 25-33%)
 
 For Grasshopper 2 he moved to a scriptable vector pipeline inside Rhino itself (`G2IconSetup`, `G2IconSymbol`, `G2ExportIcons`).
 
-**Our notes, a modern equivalent:** keep **SVG as the truth base** (that's what this repo is). Draw in Figma, Inkscape or Affinity with pixel snapping at 24px. Script the shadow pass. Every original icon is in this repo to learn from, trace against, or extend: one folder per sheet, each icon its own SVG named after its component, with `icons/manifest.json` as the lookup.
+**Our notes, a modern equivalent:** keep **SVG as the truth base** (that's what this repo is). Draw in Figma, Inkscape or Affinity with pixel snapping at 24px. Script the shadow pass. Every original icon is in [the repo](https://github.com/aidannewsome/grasshopper-icons) to learn from, trace against, or extend: one folder per sheet, each icon its own SVG named after its component, with the manifest as the lookup (see below).
 
 Judge nothing from the vector view: render at an honest 24px after every
 change and decide from that, next to a few originals at the same size. The
@@ -196,14 +190,16 @@ what tells you which strokes to delete.
 
 ## Getting the originals
 
-Whether you're a person or an agent, pull reference icons from this repo rather than redrawing from memory. The repo is the source of truth. The [README](README.md) is the full clickable directory, and everything is fetchable over plain HTTPS:
+Whether you're a person or an agent, pull reference icons from [github.com/aidannewsome/grasshopper-icons](https://github.com/aidannewsome/grasshopper-icons) rather than redrawing from memory. Its README is the full clickable directory, and everything is fetchable over plain HTTPS under one base:
 
-1. Find an icon by component name in the manifest. Entries carry `name`, `nickname`, `category`, `description`, `guid`, and the `svg` and `png` paths under `icons/`:
-   `https://raw.githubusercontent.com/aidannewsome/grasshopper-icons/main/icons/manifest.json`
-2. Download the vector original (24x24 SVG, no shadow):
-   `https://raw.githubusercontent.com/aidannewsome/grasshopper-icons/main/icons/<svg path>`
-3. Variants, all under `icons/<sheet>/` (sheets: curves, math, meshes, parameters, surfaces, transform, vector):
+```
+https://raw.githubusercontent.com/aidannewsome/grasshopper-icons/main/icons/
+```
+
+1. Find an icon by component name in `manifest.json`. Entries carry `name`, `nickname`, `category`, `description`, `guid`, and `svg` and `png` paths relative to the base.
+2. Download the vector original (24x24 SVG, no shadow) at the base plus its `svg` path.
+3. Variants, all under `<sheet>/` (sheets: curves, math, meshes, parameters, surfaces, transform, vector):
    - `png/<name>.png` has David's drop shadow baked in.
    - `<sheet>.svg` is the whole sheet on a spaced grid, every icon a named group, and `<sheet>.png` is its shadowed render.
    - `<sheet>.xar` is the untouched Xara original, and `<sheet>.zip` bundles the sheet.
-   - `icons/template.svg` is his sheet template (alignment grid, export widget, pixel font), and `icons/grasshopper-icons.zip` is everything at once.
+   - `template.svg` is his sheet template (alignment grid, export widget, pixel font), and `grasshopper-icons.zip` is everything at once.
