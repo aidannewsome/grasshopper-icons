@@ -4,7 +4,7 @@ The original Grasshopper component icons, drawn by
 [David Rutten](https://ieatbugsforbreakfast.com/2012/07/12/on-icons/) and
 recovered from the Xara vector sources he published on the
 [official guide page](https://developer.rhino3d.com/guides/grasshopper/grasshopper-icons/).
-🟡 472/554 identified, 🟡 517/554 exact.
+🟡 472/554 identified, 🟡 545/554 exact.
 
 - Download everything: [grasshopper-icons.zip](icons/grasshopper-icons.zip)
 - Machine index: [manifest.json](icons/manifest.json)
@@ -160,7 +160,7 @@ Curve primitives, splines, analysis, division and offsets. 🟡 109/118 identifi
 
 ## Math
 
-Operators, expressions, logic, trig, scripts and data sets. 🟡 127/153 identified, 🟡 139/153 exact.
+Operators, expressions, logic, trig, scripts and data sets. 🟡 127/153 identified, ✅ 153/153 exact.
 [SVG](icons/math/math.svg),
 [PNG](icons/math/math.png),
 [Xara](icons/math/math.xar),
@@ -196,14 +196,14 @@ Operators, expressions, logic, trig, scripts and data sets. 🟡 127/153 identif
 | <a name="math-complex-argument"></a><img src="icons/math/png/complex-argument.png" width="24"> | Complex Argument | Arg | ✅ | [SVG](icons/math/svg/complex-argument.svg), [PNG](icons/math/png/complex-argument.png) |
 | <a name="math-complex-conjugate"></a><img src="icons/math/png/complex-conjugate.png" width="24"> | Complex Conjugate | z* | ✅ | [SVG](icons/math/svg/complex-conjugate.svg), [PNG](icons/math/png/complex-conjugate.png) |
 | <a name="math-complex-modulus"></a><img src="icons/math/png/complex-modulus.png" width="24"> | Complex Modulus | CMod | ✅ | [SVG](icons/math/svg/complex-modulus.svg), [PNG](icons/math/png/complex-modulus.png) |
-| <a name="math-concatenate"></a><img src="icons/math/png/concatenate.png" width="24"> | Concatenate | Concat | 🟡 text | [SVG](icons/math/svg/concatenate.svg), [PNG](icons/math/png/concatenate.png) |
+| <a name="math-concatenate"></a><img src="icons/math/png/concatenate.png" width="24"> | Concatenate | Concat | ✅ | [SVG](icons/math/svg/concatenate.svg), [PNG](icons/math/png/concatenate.png) |
 | <a name="math-construct-domain"></a><img src="icons/math/png/construct-domain.png" width="24"> | Construct Domain | Dom | ✅ | [SVG](icons/math/svg/construct-domain.svg), [PNG](icons/math/png/construct-domain.png) |
 | <a name="math-construct-domain2"></a><img src="icons/math/png/construct-domain2.png" width="24"> | Construct Domain² | Dom² | ✅ | [SVG](icons/math/svg/construct-domain2.svg), [PNG](icons/math/png/construct-domain2.png) |
 | <a name="math-construct-domain2-2"></a><img src="icons/math/png/construct-domain2-2.png" width="24"> | Construct Domain² | Dom²Num | ✅ | [SVG](icons/math/svg/construct-domain2-2.svg), [PNG](icons/math/png/construct-domain2-2.png) |
 | <a name="math-construct-path"></a><img src="icons/math/png/construct-path.png" width="24"> | Construct Path | Path | ✅ | [SVG](icons/math/svg/construct-path.svg), [PNG](icons/math/png/construct-path.png) |
 | <a name="math-cosine"></a><img src="icons/math/png/cosine.png" width="24"> | Cosine | Cos | ✅ | [SVG](icons/math/svg/cosine.svg), [PNG](icons/math/png/cosine.png) |
 | <a name="math-create-material"></a><img src="icons/math/png/create-material.png" width="24"> | Create Material | Material | ✅ | [SVG](icons/math/svg/create-material.svg), [PNG](icons/math/png/create-material.png) |
-| <a name="math-create-set"></a><img src="icons/math/png/create-set.png" width="24"> | Create Set | CSet | 🟡 text | [SVG](icons/math/svg/create-set.svg), [PNG](icons/math/png/create-set.png) |
+| <a name="math-create-set"></a><img src="icons/math/png/create-set.png" width="24"> | Create Set | CSet | ✅ | [SVG](icons/math/svg/create-set.svg), [PNG](icons/math/png/create-set.png) |
 | <a name="math-cube-root"></a><img src="icons/math/png/cube-root.png" width="24"> | Cube Root | Cbrt | ✅ | [SVG](icons/math/svg/cube-root.svg), [PNG](icons/math/png/cube-root.png) |
 | <a name="math-cull-index"></a><img src="icons/math/png/cull-index.png" width="24"> | Cull Index | Cull i | ✅ | [SVG](icons/math/svg/cull-index.svg), [PNG](icons/math/png/cull-index.png) |
 | <a name="math-cull-nth"></a><img src="icons/math/png/cull-nth.png" width="24"> | Cull Nth | CullN | ✅ | [SVG](icons/math/svg/cull-nth.svg), [PNG](icons/math/png/cull-nth.png) |
@@ -256,10 +256,10 @@ Operators, expressions, logic, trig, scripts and data sets. 🟡 127/153 identif
 | <a name="math-path-compare"></a><img src="icons/math/png/path-compare.png" width="24"> | Path Compare | Compare | ✅ | [SVG](icons/math/svg/path-compare.svg), [PNG](icons/math/png/path-compare.png) |
 | <a name="math-path-mapper"></a><img src="icons/math/png/path-mapper.png" width="24"> | Path Mapper | Path Mapper | ✅ | [SVG](icons/math/svg/path-mapper.svg), [PNG](icons/math/png/path-mapper.png) |
 | <a name="math-pick-n-choose"></a><img src="icons/math/png/pick-n-choose.png" width="24"> | Pick'n'Choose | P'n'C | ✅ | [SVG](icons/math/svg/pick-n-choose.svg), [PNG](icons/math/png/pick-n-choose.png) |
-| <a name="math-power"></a><img src="icons/math/png/power.png" width="24"> | Power | Pow | 🟡 text | [SVG](icons/math/svg/power.svg), [PNG](icons/math/png/power.png) |
+| <a name="math-power"></a><img src="icons/math/png/power.png" width="24"> | Power | Pow | ✅ | [SVG](icons/math/svg/power.svg), [PNG](icons/math/png/power.png) |
 | <a name="math-power-of-10"></a><img src="icons/math/png/power-of-10.png" width="24"> | Power of 10 | 10º | ✅ | [SVG](icons/math/svg/power-of-10.svg), [PNG](icons/math/png/power-of-10.png) |
-| <a name="math-power-of-2"></a><img src="icons/math/png/power-of-2.png" width="24"> | Power of 2 | 2º | 🟡 text | [SVG](icons/math/svg/power-of-2.svg), [PNG](icons/math/png/power-of-2.png) |
-| <a name="math-power-of-e"></a><img src="icons/math/png/power-of-e.png" width="24"> | Power of E | Eº | 🟡 text | [SVG](icons/math/svg/power-of-e.svg), [PNG](icons/math/png/power-of-e.png) |
+| <a name="math-power-of-2"></a><img src="icons/math/png/power-of-2.png" width="24"> | Power of 2 | 2º | ✅ | [SVG](icons/math/svg/power-of-2.svg), [PNG](icons/math/png/power-of-2.png) |
+| <a name="math-power-of-e"></a><img src="icons/math/png/power-of-e.png" width="24"> | Power of E | Eº | ✅ | [SVG](icons/math/svg/power-of-e.svg), [PNG](icons/math/png/power-of-e.png) |
 | <a name="math-prune-tree"></a><img src="icons/math/png/prune-tree.png" width="24"> | Prune Tree | Prune | ✅ | [SVG](icons/math/svg/prune-tree.svg), [PNG](icons/math/png/prune-tree.png) |
 | <a name="math-random"></a><img src="icons/math/png/random.png" width="24"> | Random | Random | ✅ | [SVG](icons/math/svg/random.svg), [PNG](icons/math/png/random.png) |
 | <a name="math-random-reduce"></a><img src="icons/math/png/random-reduce.png" width="24"> | Random Reduce | Reduce | ✅ | [SVG](icons/math/svg/random-reduce.svg), [PNG](icons/math/png/random-reduce.png) |
@@ -288,7 +288,7 @@ Operators, expressions, logic, trig, scripts and data sets. 🟡 127/153 identif
 | <a name="math-sort-text"></a><img src="icons/math/png/sort-text.png" width="24"> | Sort Text | TSort | ✅ | [SVG](icons/math/svg/sort-text.svg), [PNG](icons/math/png/sort-text.png) |
 | <a name="math-split-list"></a><img src="icons/math/png/split-list.png" width="24"> | Split List | Split | ✅ | [SVG](icons/math/svg/split-list.svg), [PNG](icons/math/png/split-list.png) |
 | <a name="math-split-tree"></a><img src="icons/math/png/split-tree.png" width="24"> | Split Tree | Split | ✅ | [SVG](icons/math/svg/split-tree.svg), [PNG](icons/math/png/split-tree.png) |
-| <a name="math-square"></a><img src="icons/math/png/square.png" width="24"> | Square | Sqr | 🟡 text | [SVG](icons/math/svg/square.svg), [PNG](icons/math/png/square.png) |
+| <a name="math-square"></a><img src="icons/math/png/square.png" width="24"> | Square | Sqr | ✅ | [SVG](icons/math/svg/square.svg), [PNG](icons/math/png/square.png) |
 | <a name="math-square-root"></a><img src="icons/math/png/square-root.png" width="24"> | Square Root | Sqrt | ✅ | [SVG](icons/math/svg/square-root.svg), [PNG](icons/math/png/square-root.png) |
 | <a name="math-stream-filter"></a><img src="icons/math/png/stream-filter.png" width="24"> | Stream Filter | Filter | ✅ | [SVG](icons/math/svg/stream-filter.svg), [PNG](icons/math/png/stream-filter.png) |
 | <a name="math-stream-gate"></a><img src="icons/math/png/stream-gate.png" width="24"> | Stream Gate | Gate | ✅ | [SVG](icons/math/svg/stream-gate.svg), [PNG](icons/math/png/stream-gate.png) |
@@ -305,7 +305,7 @@ Operators, expressions, logic, trig, scripts and data sets. 🟡 127/153 identif
 | <a name="math-tree-branch"></a><img src="icons/math/png/tree-branch.png" width="24"> | Tree Branch | Branch | ✅ | [SVG](icons/math/svg/tree-branch.svg), [PNG](icons/math/png/tree-branch.png) |
 | <a name="math-tree-item"></a><img src="icons/math/png/tree-item.png" width="24"> | Tree Item | Item | ✅ | [SVG](icons/math/svg/tree-item.svg), [PNG](icons/math/png/tree-item.png) |
 | <a name="math-truncate"></a><img src="icons/math/png/truncate.png" width="24"> | Truncate | Trunc | ✅ | [SVG](icons/math/svg/truncate.svg), [PNG](icons/math/png/truncate.png) |
-| <a name="math-vb-script"></a><img src="icons/math/png/vb-script.png" width="24"> | VB Script | VB | 🟡 text | [SVG](icons/math/svg/vb-script.svg), [PNG](icons/math/png/vb-script.png) |
+| <a name="math-vb-script"></a><img src="icons/math/png/vb-script.png" width="24"> | VB Script | VB | ✅ | [SVG](icons/math/svg/vb-script.svg), [PNG](icons/math/png/vb-script.png) |
 | <a name="math-weave"></a><img src="icons/math/png/weave.png" width="24"> | Weave | Weave | ✅ | [SVG](icons/math/svg/weave.svg), [PNG](icons/math/png/weave.png) |
 | <a name="math-r03-c11"></a><img src="icons/math/png/math-r03-c11.png" width="24"> | *unidentified* |  | ✅ | [SVG](icons/math/svg/math-r03-c11.svg), [PNG](icons/math/png/math-r03-c11.png) |
 | <a name="math-r04-c10"></a><img src="icons/math/png/math-r04-c10.png" width="24"> | *unidentified* |  | ✅ | [SVG](icons/math/svg/math-r04-c10.svg), [PNG](icons/math/png/math-r04-c10.png) |
@@ -322,17 +322,17 @@ Operators, expressions, logic, trig, scripts and data sets. 🟡 127/153 identif
 | <a name="math-r08-c12"></a><img src="icons/math/png/math-r08-c12.png" width="24"> | *unidentified* |  | ✅ | [SVG](icons/math/svg/math-r08-c12.svg), [PNG](icons/math/png/math-r08-c12.png) |
 | <a name="math-r09-c17"></a><img src="icons/math/png/math-r09-c17.png" width="24"> | *unidentified* |  | ✅ | [SVG](icons/math/svg/math-r09-c17.svg), [PNG](icons/math/png/math-r09-c17.png) |
 | <a name="math-r10-c17"></a><img src="icons/math/png/math-r10-c17.png" width="24"> | *unidentified* |  | ✅ | [SVG](icons/math/svg/math-r10-c17.svg), [PNG](icons/math/png/math-r10-c17.png) |
-| <a name="math-r11-c14"></a><img src="icons/math/png/math-r11-c14.png" width="24"> | *unidentified* |  | 🟡 text | [SVG](icons/math/svg/math-r11-c14.svg), [PNG](icons/math/png/math-r11-c14.png) |
+| <a name="math-r11-c14"></a><img src="icons/math/png/math-r11-c14.png" width="24"> | *unidentified* |  | ✅ | [SVG](icons/math/svg/math-r11-c14.svg), [PNG](icons/math/png/math-r11-c14.png) |
 | <a name="math-r11-c16"></a><img src="icons/math/png/math-r11-c16.png" width="24"> | *unidentified* |  | ✅ | [SVG](icons/math/svg/math-r11-c16.svg), [PNG](icons/math/png/math-r11-c16.png) |
 | <a name="math-r11-c17"></a><img src="icons/math/png/math-r11-c17.png" width="24"> | *unidentified* |  | ✅ | [SVG](icons/math/svg/math-r11-c17.svg), [PNG](icons/math/png/math-r11-c17.png) |
 | <a name="math-r12-c16"></a><img src="icons/math/png/math-r12-c16.png" width="24"> | *unidentified* |  | ✅ | [SVG](icons/math/svg/math-r12-c16.svg), [PNG](icons/math/png/math-r12-c16.png) |
 | <a name="math-r12-c17"></a><img src="icons/math/png/math-r12-c17.png" width="24"> | *unidentified* |  | ✅ | [SVG](icons/math/svg/math-r12-c17.svg), [PNG](icons/math/png/math-r12-c17.png) |
-| <a name="math-r13-c08"></a><img src="icons/math/png/math-r13-c08.png" width="24"> | *unidentified* |  | 🟡 text | [SVG](icons/math/svg/math-r13-c08.svg), [PNG](icons/math/png/math-r13-c08.png) |
-| <a name="math-r13-c10"></a><img src="icons/math/png/math-r13-c10.png" width="24"> | *unidentified* |  | 🟡 text | [SVG](icons/math/svg/math-r13-c10.svg), [PNG](icons/math/png/math-r13-c10.png) |
-| <a name="math-r13-c11"></a><img src="icons/math/png/math-r13-c11.png" width="24"> | *unidentified* |  | 🟡 text | [SVG](icons/math/svg/math-r13-c11.svg), [PNG](icons/math/png/math-r13-c11.png) |
-| <a name="math-r13-c13"></a><img src="icons/math/png/math-r13-c13.png" width="24"> | *unidentified* |  | 🟡 text | [SVG](icons/math/svg/math-r13-c13.svg), [PNG](icons/math/png/math-r13-c13.png) |
-| <a name="math-r13-c14"></a><img src="icons/math/png/math-r13-c14.png" width="24"> | *unidentified* |  | 🟡 text | [SVG](icons/math/svg/math-r13-c14.svg), [PNG](icons/math/png/math-r13-c14.png) |
-| <a name="math-r13-c15"></a><img src="icons/math/png/math-r13-c15.png" width="24"> | *unidentified* |  | 🟡 text | [SVG](icons/math/svg/math-r13-c15.svg), [PNG](icons/math/png/math-r13-c15.png) |
+| <a name="math-r13-c08"></a><img src="icons/math/png/math-r13-c08.png" width="24"> | *unidentified* |  | ✅ | [SVG](icons/math/svg/math-r13-c08.svg), [PNG](icons/math/png/math-r13-c08.png) |
+| <a name="math-r13-c10"></a><img src="icons/math/png/math-r13-c10.png" width="24"> | *unidentified* |  | ✅ | [SVG](icons/math/svg/math-r13-c10.svg), [PNG](icons/math/png/math-r13-c10.png) |
+| <a name="math-r13-c11"></a><img src="icons/math/png/math-r13-c11.png" width="24"> | *unidentified* |  | ✅ | [SVG](icons/math/svg/math-r13-c11.svg), [PNG](icons/math/png/math-r13-c11.png) |
+| <a name="math-r13-c13"></a><img src="icons/math/png/math-r13-c13.png" width="24"> | *unidentified* |  | ✅ | [SVG](icons/math/svg/math-r13-c13.svg), [PNG](icons/math/png/math-r13-c13.png) |
+| <a name="math-r13-c14"></a><img src="icons/math/png/math-r13-c14.png" width="24"> | *unidentified* |  | ✅ | [SVG](icons/math/svg/math-r13-c14.svg), [PNG](icons/math/png/math-r13-c14.png) |
+| <a name="math-r13-c15"></a><img src="icons/math/png/math-r13-c15.png" width="24"> | *unidentified* |  | ✅ | [SVG](icons/math/svg/math-r13-c15.svg), [PNG](icons/math/png/math-r13-c15.png) |
 
 ## Meshes
 
@@ -400,7 +400,7 @@ Mesh primitives, triangulation and mesh editing. 🟡 42/47 identified, ✅ 47/4
 
 ## Parameters
 
-Data containers, primitive types and canvas widgets. 🟡 58/85 identified, 🟡 78/85 exact.
+Data containers, primitive types and canvas widgets. 🟡 58/85 identified, 🟡 80/85 exact.
 [SVG](icons/parameters/parameters.svg),
 [PNG](icons/parameters/parameters.png),
 [Xara](icons/parameters/parameters.xar),
@@ -442,7 +442,7 @@ Data containers, primitive types and canvas widgets. 🟡 58/85 identified, 🟡
 | <a name="parameters-guid"></a><img src="icons/parameters/png/guid.png" width="24"> | Guid | ID | ✅ | [SVG](icons/parameters/svg/guid.svg), [PNG](icons/parameters/png/guid.png) |
 | <a name="parameters-image-gallery"></a><img src="icons/parameters/png/image-gallery.png" width="24"> | Image Gallery | Gallery | ✅ | [SVG](icons/parameters/svg/image-gallery.svg), [PNG](icons/parameters/png/image-gallery.png) |
 | <a name="parameters-image-sampler"></a><img src="icons/parameters/png/image-sampler.png" width="24"> | Image Sampler | Image | ✅ | [SVG](icons/parameters/svg/image-sampler.svg), [PNG](icons/parameters/png/image-sampler.png) |
-| <a name="parameters-integer"></a><img src="icons/parameters/png/integer.png" width="24"> | Integer | Int | 🟡 text | [SVG](icons/parameters/svg/integer.svg), [PNG](icons/parameters/png/integer.png) |
+| <a name="parameters-integer"></a><img src="icons/parameters/png/integer.png" width="24"> | Integer | Int | ✅ | [SVG](icons/parameters/svg/integer.svg), [PNG](icons/parameters/png/integer.png) |
 | <a name="parameters-line"></a><img src="icons/parameters/png/line.png" width="24"> | Line | Line | ✅ | [SVG](icons/parameters/svg/line.svg), [PNG](icons/parameters/png/line.png) |
 | <a name="parameters-loft-options"></a><img src="icons/parameters/png/loft-options.png" width="24"> | Loft Options | Loft | ✅ | [SVG](icons/parameters/svg/loft-options.svg), [PNG](icons/parameters/png/loft-options.png) |
 | <a name="parameters-md-slider"></a><img src="icons/parameters/png/md-slider.png" width="24"> | MD Slider | MD Slider | ✅ | [SVG](icons/parameters/svg/md-slider.svg), [PNG](icons/parameters/png/md-slider.png) |
@@ -471,7 +471,7 @@ Data containers, primitive types and canvas widgets. 🟡 58/85 identified, 🟡
 | <a name="parameters-twisted-box"></a><img src="icons/parameters/png/twisted-box.png" width="24"> | Twisted Box | TBox | ✅ | [SVG](icons/parameters/svg/twisted-box.svg), [PNG](icons/parameters/png/twisted-box.png) |
 | <a name="parameters-value-list"></a><img src="icons/parameters/png/value-list.png" width="24"> | Value List | List | ✅ | [SVG](icons/parameters/svg/value-list.svg), [PNG](icons/parameters/png/value-list.png) |
 | <a name="parameters-value-tracker"></a><img src="icons/parameters/png/value-tracker.png" width="24"> | Value Tracker | Tracker | ✅ | [SVG](icons/parameters/svg/value-tracker.svg), [PNG](icons/parameters/png/value-tracker.png) |
-| <a name="parameters-var"></a><img src="icons/parameters/png/var.png" width="24"> | var | var | 🟡 text | [SVG](icons/parameters/svg/var.svg), [PNG](icons/parameters/png/var.png) |
+| <a name="parameters-var"></a><img src="icons/parameters/png/var.png" width="24"> | var | var | ✅ | [SVG](icons/parameters/svg/var.svg), [PNG](icons/parameters/png/var.png) |
 | <a name="parameters-vector"></a><img src="icons/parameters/png/vector.png" width="24"> | Vector | Vec | ✅ | [SVG](icons/parameters/svg/vector.svg), [PNG](icons/parameters/png/vector.png) |
 | <a name="parameters-r01-c03"></a><img src="icons/parameters/png/parameters-r01-c03.png" width="24"> | *unidentified* |  | ✅ | [SVG](icons/parameters/svg/parameters-r01-c03.svg), [PNG](icons/parameters/png/parameters-r01-c03.png) |
 | <a name="parameters-r01-c05"></a><img src="icons/parameters/png/parameters-r01-c05.png" width="24"> | *unidentified* |  | ✅ | [SVG](icons/parameters/svg/parameters-r01-c05.svg), [PNG](icons/parameters/png/parameters-r01-c05.png) |
@@ -503,7 +503,7 @@ Data containers, primitive types and canvas widgets. 🟡 58/85 identified, 🟡
 
 ## Surfaces
 
-Surface primitives, freeform surfaces and surface analysis. 🟡 57/65 identified, 🟡 62/65 exact.
+Surface primitives, freeform surfaces and surface analysis. 🟡 57/65 identified, 🟡 64/65 exact.
 [SVG](icons/surfaces/surfaces.svg),
 [PNG](icons/surfaces/surfaces.png),
 [Xara](icons/surfaces/surfaces.xar),
@@ -574,13 +574,13 @@ Surface primitives, freeform surfaces and surface analysis. 🟡 57/65 identifie
 | <a name="surfaces-sweep2"></a><img src="icons/surfaces/png/sweep2.png" width="24"> | Sweep2 | Swp2 | ✅ | [SVG](icons/surfaces/svg/sweep2.svg), [PNG](icons/surfaces/png/sweep2.png) |
 | <a name="surfaces-trim-solid"></a><img src="icons/surfaces/png/trim-solid.png" width="24"> | Trim Solid | Trim | ✅ | [SVG](icons/surfaces/svg/trim-solid.svg), [PNG](icons/surfaces/png/trim-solid.png) |
 | <a name="surfaces-untrim"></a><img src="icons/surfaces/png/untrim.png" width="24"> | Untrim | Untrim | ✅ | [SVG](icons/surfaces/svg/untrim.svg), [PNG](icons/surfaces/png/untrim.png) |
-| <a name="surfaces-volume-moments"></a><img src="icons/surfaces/png/volume-moments.png" width="24"> | Volume Moments | VMoments | 🟡 text | [SVG](icons/surfaces/svg/volume-moments.svg), [PNG](icons/surfaces/png/volume-moments.png) |
+| <a name="surfaces-volume-moments"></a><img src="icons/surfaces/png/volume-moments.png" width="24"> | Volume Moments | VMoments | ✅ | [SVG](icons/surfaces/svg/volume-moments.svg), [PNG](icons/surfaces/png/volume-moments.png) |
 | <a name="surfaces-r01-c03"></a><img src="icons/surfaces/png/surfaces-r01-c03.png" width="24"> | *unidentified* |  | ✅ | [SVG](icons/surfaces/svg/surfaces-r01-c03.svg), [PNG](icons/surfaces/png/surfaces-r01-c03.png) |
 | <a name="surfaces-r02-c04"></a><img src="icons/surfaces/png/surfaces-r02-c04.png" width="24"> | *unidentified* |  | ✅ | [SVG](icons/surfaces/svg/surfaces-r02-c04.svg), [PNG](icons/surfaces/png/surfaces-r02-c04.png) |
 | <a name="surfaces-r03-c03"></a><img src="icons/surfaces/png/surfaces-r03-c03.png" width="24"> | *unidentified* |  | ✅ | [SVG](icons/surfaces/svg/surfaces-r03-c03.svg), [PNG](icons/surfaces/png/surfaces-r03-c03.png) |
 | <a name="surfaces-r05-c01"></a><img src="icons/surfaces/png/surfaces-r05-c01.png" width="24"> | *unidentified* |  | ✅ | [SVG](icons/surfaces/svg/surfaces-r05-c01.svg), [PNG](icons/surfaces/png/surfaces-r05-c01.png) |
 | <a name="surfaces-r06-c07"></a><img src="icons/surfaces/png/surfaces-r06-c07.png" width="24"> | *unidentified* |  | ✅ | [SVG](icons/surfaces/svg/surfaces-r06-c07.svg), [PNG](icons/surfaces/png/surfaces-r06-c07.png) |
-| <a name="surfaces-r06-c11"></a><img src="icons/surfaces/png/surfaces-r06-c11.png" width="24"> | *unidentified* |  | 🟡 text | [SVG](icons/surfaces/svg/surfaces-r06-c11.svg), [PNG](icons/surfaces/png/surfaces-r06-c11.png) |
+| <a name="surfaces-r06-c11"></a><img src="icons/surfaces/png/surfaces-r06-c11.png" width="24"> | *unidentified* |  | ✅ | [SVG](icons/surfaces/svg/surfaces-r06-c11.svg), [PNG](icons/surfaces/png/surfaces-r06-c11.png) |
 | <a name="surfaces-r06-c12"></a><img src="icons/surfaces/png/surfaces-r06-c12.png" width="24"> | *unidentified* |  | ✅ | [SVG](icons/surfaces/svg/surfaces-r06-c12.svg), [PNG](icons/surfaces/png/surfaces-r06-c12.png) |
 | <a name="surfaces-r07-c17"></a><img src="icons/surfaces/png/surfaces-r07-c17.png" width="24"> | *unidentified* |  | ✅ | [SVG](icons/surfaces/svg/surfaces-r07-c17.svg), [PNG](icons/surfaces/png/surfaces-r07-c17.png) |
 
@@ -635,7 +635,7 @@ Move, rotate, scale, mirror, morph and array. 🟡 29/31 identified, ✅ 31/31 e
 
 ## Vector
 
-Points, vectors, planes, grids and fields. 🟡 50/55 identified, 🟡 42/55 exact.
+Points, vectors, planes, grids and fields. 🟡 50/55 identified, 🟡 52/55 exact.
 [SVG](icons/vector/vector.svg),
 [PNG](icons/vector/vector.png),
 [Xara](icons/vector/vector.xar),
@@ -653,23 +653,23 @@ Points, vectors, planes, grids and fields. 🟡 50/55 identified, 🟡 42/55 exa
 | <a name="vector-addition"></a><img src="icons/vector/png/addition.png" width="24"> | Addition | VAdd | ✅ | [SVG](icons/vector/svg/addition.svg), [PNG](icons/vector/png/addition.png) |
 | <a name="vector-align-plane"></a><img src="icons/vector/png/align-plane.png" width="24"> | Align Plane | Align | ✅ | [SVG](icons/vector/svg/align-plane.svg), [PNG](icons/vector/png/align-plane.png) |
 | <a name="vector-align-planes"></a><img src="icons/vector/png/align-planes.png" width="24"> | Align Planes | Align | ✅ | [SVG](icons/vector/svg/align-planes.svg), [PNG](icons/vector/png/align-planes.png) |
-| <a name="vector-amplitude"></a><img src="icons/vector/png/amplitude.png" width="24"> | Amplitude | Amp | 🟡 text | [SVG](icons/vector/svg/amplitude.svg), [PNG](icons/vector/png/amplitude.png) |
+| <a name="vector-amplitude"></a><img src="icons/vector/png/amplitude.png" width="24"> | Amplitude | Amp | ✅ | [SVG](icons/vector/svg/amplitude.svg), [PNG](icons/vector/png/amplitude.png) |
 | <a name="vector-angle"></a><img src="icons/vector/png/angle.png" width="24"> | Angle | Angle | ✅ | [SVG](icons/vector/svg/angle.svg), [PNG](icons/vector/png/angle.png) |
 | <a name="vector-closest-point"></a><img src="icons/vector/png/closest-point.png" width="24"> | Closest Point | CP | ✅ | [SVG](icons/vector/svg/closest-point.svg), [PNG](icons/vector/png/closest-point.png) |
 | <a name="vector-construct-plane"></a><img src="icons/vector/png/construct-plane.png" width="24"> | Construct Plane | Pl | ✅ | [SVG](icons/vector/svg/construct-plane.svg), [PNG](icons/vector/png/construct-plane.png) |
-| <a name="vector-construct-point"></a><img src="icons/vector/png/construct-point.png" width="24"> | Construct Point | Pt | 🟡 text | [SVG](icons/vector/svg/construct-point.svg), [PNG](icons/vector/png/construct-point.png) |
+| <a name="vector-construct-point"></a><img src="icons/vector/png/construct-point.png" width="24"> | Construct Point | Pt | ✅ | [SVG](icons/vector/svg/construct-point.svg), [PNG](icons/vector/png/construct-point.png) |
 | <a name="vector-cross-product"></a><img src="icons/vector/png/cross-product.png" width="24"> | Cross Product | XProd | ✅ | [SVG](icons/vector/svg/cross-product.svg), [PNG](icons/vector/png/cross-product.png) |
-| <a name="vector-deconstruct"></a><img src="icons/vector/png/deconstruct.png" width="24"> | Deconstruct | pDecon | 🟡 text | [SVG](icons/vector/svg/deconstruct.svg), [PNG](icons/vector/png/deconstruct.png) |
+| <a name="vector-deconstruct"></a><img src="icons/vector/png/deconstruct.png" width="24"> | Deconstruct | pDecon | ✅ | [SVG](icons/vector/svg/deconstruct.svg), [PNG](icons/vector/png/deconstruct.png) |
 | <a name="vector-deconstruct-plane"></a><img src="icons/vector/png/deconstruct-plane.png" width="24"> | Deconstruct Plane | DePlane | ✅ | [SVG](icons/vector/svg/deconstruct-plane.svg), [PNG](icons/vector/png/deconstruct-plane.png) |
-| <a name="vector-deconstruct-vector"></a><img src="icons/vector/png/deconstruct-vector.png" width="24"> | Deconstruct Vector | DeVec | 🟡 text | [SVG](icons/vector/svg/deconstruct-vector.svg), [PNG](icons/vector/png/deconstruct-vector.png) |
+| <a name="vector-deconstruct-vector"></a><img src="icons/vector/png/deconstruct-vector.png" width="24"> | Deconstruct Vector | DeVec | ✅ | [SVG](icons/vector/svg/deconstruct-vector.svg), [PNG](icons/vector/png/deconstruct-vector.png) |
 | <a name="vector-distance"></a><img src="icons/vector/png/distance.png" width="24"> | Distance | Dist | ✅ | [SVG](icons/vector/svg/distance.svg), [PNG](icons/vector/png/distance.png) |
-| <a name="vector-divide"></a><img src="icons/vector/png/divide.png" width="24"> | Divide | VDiv | 🟡 text | [SVG](icons/vector/svg/divide.svg), [PNG](icons/vector/png/divide.png) |
+| <a name="vector-divide"></a><img src="icons/vector/png/divide.png" width="24"> | Divide | VDiv | ✅ | [SVG](icons/vector/svg/divide.svg), [PNG](icons/vector/png/divide.png) |
 | <a name="vector-dot-product"></a><img src="icons/vector/png/dot-product.png" width="24"> | Dot Product | DProd | ✅ | [SVG](icons/vector/svg/dot-product.svg), [PNG](icons/vector/png/dot-product.png) |
 | <a name="vector-hexagonal"></a><img src="icons/vector/png/hexagonal.png" width="24"> | Hexagonal | HexGrid | ✅ | [SVG](icons/vector/svg/hexagonal.svg), [PNG](icons/vector/png/hexagonal.png) |
 | <a name="vector-line-line"></a><img src="icons/vector/png/line-line.png" width="24"> | Line + Line | LnLn | ✅ | [SVG](icons/vector/svg/line-line.svg), [PNG](icons/vector/png/line-line.png) |
 | <a name="vector-line-pt"></a><img src="icons/vector/png/line-pt.png" width="24"> | Line + Pt | LnPt | ✅ | [SVG](icons/vector/svg/line-pt.svg), [PNG](icons/vector/png/line-pt.png) |
 | <a name="vector-mass-addition"></a><img src="icons/vector/png/mass-addition.png" width="24"> | Mass Addition | MassAdd | ✅ | [SVG](icons/vector/svg/mass-addition.svg), [PNG](icons/vector/png/mass-addition.png) |
-| <a name="vector-multiply"></a><img src="icons/vector/png/multiply.png" width="24"> | Multiply | VMul | 🟡 text | [SVG](icons/vector/svg/multiply.svg), [PNG](icons/vector/png/multiply.png) |
+| <a name="vector-multiply"></a><img src="icons/vector/png/multiply.png" width="24"> | Multiply | VMul | ✅ | [SVG](icons/vector/svg/multiply.svg), [PNG](icons/vector/png/multiply.png) |
 | <a name="vector-plane-3pt"></a><img src="icons/vector/png/plane-3pt.png" width="24"> | Plane 3Pt | Pl 3Pt | ✅ | [SVG](icons/vector/svg/plane-3pt.svg), [PNG](icons/vector/png/plane-3pt.png) |
 | <a name="vector-plane-closest-point"></a><img src="icons/vector/png/plane-closest-point.png" width="24"> | Plane Closest Point | CP | ✅ | [SVG](icons/vector/svg/plane-closest-point.svg), [PNG](icons/vector/png/plane-closest-point.png) |
 | <a name="vector-plane-fit"></a><img src="icons/vector/png/plane-fit.png" width="24"> | Plane Fit | PlFit | ✅ | [SVG](icons/vector/svg/plane-fit.svg), [PNG](icons/vector/png/plane-fit.png) |
@@ -691,12 +691,12 @@ Points, vectors, planes, grids and fields. 🟡 50/55 identified, 🟡 42/55 exa
 | <a name="vector-text-tag"></a><img src="icons/vector/png/text-tag.png" width="24"> | Text Tag | Tag | ✅ | [SVG](icons/vector/svg/text-tag.svg), [PNG](icons/vector/png/text-tag.png) |
 | <a name="vector-text-tag-3d"></a><img src="icons/vector/png/text-tag-3d.png" width="24"> | Text Tag 3D | Tag | ✅ | [SVG](icons/vector/svg/text-tag-3d.svg), [PNG](icons/vector/png/text-tag-3d.png) |
 | <a name="vector-triangular"></a><img src="icons/vector/png/triangular.png" width="24"> | Triangular | TriGrid | ✅ | [SVG](icons/vector/svg/triangular.svg), [PNG](icons/vector/png/triangular.png) |
-| <a name="vector-unit-x"></a><img src="icons/vector/png/unit-x.png" width="24"> | Unit X | X | 🟡 text | [SVG](icons/vector/svg/unit-x.svg), [PNG](icons/vector/png/unit-x.png) |
-| <a name="vector-unit-y"></a><img src="icons/vector/png/unit-y.png" width="24"> | Unit Y | Y | 🟡 text | [SVG](icons/vector/svg/unit-y.svg), [PNG](icons/vector/png/unit-y.png) |
-| <a name="vector-unit-z"></a><img src="icons/vector/png/unit-z.png" width="24"> | Unit Z | Z | 🟡 text | [SVG](icons/vector/svg/unit-z.svg), [PNG](icons/vector/png/unit-z.png) |
+| <a name="vector-unit-x"></a><img src="icons/vector/png/unit-x.png" width="24"> | Unit X | X | ✅ | [SVG](icons/vector/svg/unit-x.svg), [PNG](icons/vector/png/unit-x.png) |
+| <a name="vector-unit-y"></a><img src="icons/vector/png/unit-y.png" width="24"> | Unit Y | Y | ✅ | [SVG](icons/vector/svg/unit-y.svg), [PNG](icons/vector/png/unit-y.png) |
+| <a name="vector-unit-z"></a><img src="icons/vector/png/unit-z.png" width="24"> | Unit Z | Z | ✅ | [SVG](icons/vector/svg/unit-z.svg), [PNG](icons/vector/png/unit-z.png) |
 | <a name="vector-vector-2pt"></a><img src="icons/vector/png/vector-2pt.png" width="24"> | Vector 2Pt | Vec2Pt | ✅ | [SVG](icons/vector/svg/vector-2pt.svg), [PNG](icons/vector/png/vector-2pt.png) |
 | <a name="vector-vector-display"></a><img src="icons/vector/png/vector-display.png" width="24"> | Vector Display | VDis | ✅ | [SVG](icons/vector/svg/vector-display.svg), [PNG](icons/vector/png/vector-display.png) |
-| <a name="vector-vector-xyz"></a><img src="icons/vector/png/vector-xyz.png" width="24"> | Vector XYZ | Vec | 🟡 text | [SVG](icons/vector/svg/vector-xyz.svg), [PNG](icons/vector/png/vector-xyz.png) |
+| <a name="vector-vector-xyz"></a><img src="icons/vector/png/vector-xyz.png" width="24"> | Vector XYZ | Vec | ✅ | [SVG](icons/vector/svg/vector-xyz.svg), [PNG](icons/vector/png/vector-xyz.png) |
 | <a name="vector-xy-plane"></a><img src="icons/vector/png/xy-plane.png" width="24"> | XY Plane | XY | ✅ | [SVG](icons/vector/svg/xy-plane.svg), [PNG](icons/vector/png/xy-plane.png) |
 | <a name="vector-xz-plane"></a><img src="icons/vector/png/xz-plane.png" width="24"> | XZ Plane | XZ | ✅ | [SVG](icons/vector/svg/xz-plane.svg), [PNG](icons/vector/png/xz-plane.png) |
 | <a name="vector-yz-plane"></a><img src="icons/vector/png/yz-plane.png" width="24"> | YZ Plane | YZ | ✅ | [SVG](icons/vector/svg/yz-plane.svg), [PNG](icons/vector/png/yz-plane.png) |

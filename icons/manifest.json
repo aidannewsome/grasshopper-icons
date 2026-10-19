@@ -1887,9 +1887,7 @@
   "subcategory": "Text",
   "description": "Concatenate some fragments of text",
   "guid": "2013e425-8713-42e2-a661-b57e78840337",
-  "approximations": [
-   "text"
-  ]
+  "approximations": []
  },
  {
   "sheet": "math",
@@ -1987,9 +1985,7 @@
   "subcategory": "Sets",
   "description": "Creates the valid set from a list of items (a valid set only contains distinct elements).",
   "guid": "98c3c63a-e78a-43ea-a111-514fcf312c95",
-  "approximations": [
-   "text"
-  ]
+  "approximations": []
  },
  {
   "sheet": "math",
@@ -2731,9 +2727,7 @@
   "subcategory": "Operators",
   "description": "Raise a value to a power.",
   "guid": "78fed580-851b-46fe-af2f-6519a9d378e0",
-  "approximations": [
-   "text"
-  ]
+  "approximations": []
  },
  {
   "sheet": "math",
@@ -2761,9 +2755,7 @@
   "subcategory": "Polynomials",
   "description": "Raise 2 to the power of N.",
   "guid": "7a1e5fd7-b7da-4244-a261-f1da66614992",
-  "approximations": [
-   "text"
-  ]
+  "approximations": []
  },
  {
   "sheet": "math",
@@ -2777,9 +2769,7 @@
   "subcategory": "Polynomials",
   "description": "Raise E to the power of N.",
   "guid": "c717f26f-e4a0-475c-8e1c-b8f77af1bc99",
-  "approximations": [
-   "text"
-  ]
+  "approximations": []
  },
  {
   "sheet": "math",
@@ -3185,9 +3175,7 @@
   "subcategory": "Polynomials",
   "description": "Compute the square of a value",
   "guid": "2280dde4-9fa2-4b4a-ae2f-37d554861367",
-  "approximations": [
-   "text"
-  ]
+  "approximations": []
  },
  {
   "sheet": "math",
@@ -3425,9 +3413,7 @@
   "subcategory": "Script",
   "description": "A VB.NET scriptable component",
   "guid": "079bd9bd-54a0-41d4-98af-db999015f63d",
-  "approximations": [
-   "text"
-  ]
+  "approximations": []
  },
  {
   "sheet": "math",
@@ -3665,9 +3651,7 @@
   "subcategory": null,
   "description": null,
   "guid": null,
-  "approximations": [
-   "text"
-  ]
+  "approximations": []
  },
  {
   "sheet": "math",
@@ -3737,9 +3721,7 @@
   "subcategory": null,
   "description": null,
   "guid": null,
-  "approximations": [
-   "text"
-  ]
+  "approximations": []
  },
  {
   "sheet": "math",
@@ -3753,9 +3735,7 @@
   "subcategory": null,
   "description": null,
   "guid": null,
-  "approximations": [
-   "text"
-  ]
+  "approximations": []
  },
  {
   "sheet": "math",
@@ -3769,9 +3749,7 @@
   "subcategory": null,
   "description": null,
   "guid": null,
-  "approximations": [
-   "text"
-  ]
+  "approximations": []
  },
  {
   "sheet": "math",
@@ -3785,9 +3763,7 @@
   "subcategory": null,
   "description": null,
   "guid": null,
-  "approximations": [
-   "text"
-  ]
+  "approximations": []
  },
  {
   "sheet": "math",
@@ -3801,9 +3777,7 @@
   "subcategory": null,
   "description": null,
   "guid": null,
-  "approximations": [
-   "text"
-  ]
+  "approximations": []
  },
  {
   "sheet": "math",
@@ -3817,9 +3791,7 @@
   "subcategory": null,
   "description": null,
   "guid": null,
-  "approximations": [
-   "text"
-  ]
+  "approximations": []
  },
  {
   "sheet": "meshes",
@@ -4873,9 +4845,7 @@
   "subcategory": "Primitive",
   "description": "Contains a collection of integer numbers",
   "guid": "2e3ab970-8545-46bb-836c-1c11e5610bce",
-  "approximations": [
-   "text"
-  ]
+  "approximations": []
  },
  {
   "sheet": "parameters",
@@ -5283,9 +5253,7 @@
   "subcategory": "Script",
   "description": "No conversion",
   "guid": "08908df5-fa14-4982-9ab2-1aa0927566aa",
-  "approximations": [
-   "text"
-  ]
+  "approximations": []
  },
  {
   "sheet": "parameters",
@@ -6481,9 +6449,7 @@
   "subcategory": "Analysis",
   "description": "Solve volume properties for closed breps and meshes.",
   "guid": "2e685fd9-7b8f-461b-b330-44857b099937",
-  "approximations": [
-   "text"
-  ]
+  "approximations": []
  },
  {
   "sheet": "surfaces",
@@ -6567,9 +6533,7 @@
   "subcategory": null,
   "description": null,
   "guid": null,
-  "approximations": [
-   "text"
-  ]
+  "approximations": []
  },
  {
   "sheet": "surfaces",
@@ -7087,9 +7051,7 @@
   "subcategory": "Vector",
   "description": "Set the amplitude (length) of a vector.",
   "guid": "6ec39468-dae7-4ffa-a766-f2ab22a2c62e",
-  "approximations": [
-   "text"
-  ]
+  "approximations": []
  },
  {
   "sheet": "vector",
@@ -7145,9 +7107,7 @@
   "subcategory": "Point",
   "description": "Construct a point from {xyz} coordinates.",
   "guid": "3581f42a-9592-4549-bd6b-1c0fc39d067b",
-  "approximations": [
-   "text"
-  ]
+  "approximations": []
  },
  {
   "sheet": "vector",
@@ -7175,9 +7135,7 @@
   "subcategory": "Point",
   "description": "Deconstruct a point into its component parts.",
   "guid": "9abae6b7-fa1d-448c-9209-4a8155345841",
-  "approximations": [
-   "text"
-  ]
+  "approximations": []
  },
  {
   "sheet": "vector",
@@ -7205,9 +7163,7 @@
   "subcategory": "Vector",
   "description": "Deconstruct a vector into its component parts.",
   "guid": "a50fcd4a-cf42-4c3f-8616-022761e6cc93",
-  "approximations": [
-   "text"
-  ]
+  "approximations": []
  },
  {
   "sheet": "vector",
@@ -7235,9 +7191,7 @@
   "subcategory": "Vector",
   "description": "Perform vector-scalar division.",
   "guid": "310e1065-d03a-4858-bcd1-809d39c042af",
-  "approximations": [
-   "text"
-  ]
+  "approximations": []
  },
  {
   "sheet": "vector",
@@ -7321,9 +7275,7 @@
   "subcategory": "Vector",
   "description": "Perform vector-scalar multiplication.",
   "guid": "63fff845-7c61-4dfb-ba12-44d481b4bf0f",
-  "approximations": [
-   "text"
-  ]
+  "approximations": []
  },
  {
   "sheet": "vector",
@@ -7633,9 +7585,7 @@
   "subcategory": "Vector",
   "description": "Unit vector parallel to the world {x} axis.",
   "guid": "79f9fbb3-8f1d-4d9a-88a9-f7961b1012cd",
-  "approximations": [
-   "text"
-  ]
+  "approximations": []
  },
  {
   "sheet": "vector",
@@ -7649,9 +7599,7 @@
   "subcategory": "Vector",
   "description": "Unit vector parallel to the world {y} axis.",
   "guid": "d3d195ea-2d59-4ffa-90b1-8b7ff3369f69",
-  "approximations": [
-   "text"
-  ]
+  "approximations": []
  },
  {
   "sheet": "vector",
@@ -7665,9 +7613,7 @@
   "subcategory": "Vector",
   "description": "Unit vector parallel to the world {z} axis.",
   "guid": "9103c240-a6a9-4223-9b42-dbd19bf38e2b",
-  "approximations": [
-   "text"
-  ]
+  "approximations": []
  },
  {
   "sheet": "vector",
@@ -7709,9 +7655,7 @@
   "subcategory": "Vector",
   "description": "Create a vector from {xyz} components.",
   "guid": "56b92eab-d121-43f7-94d3-6cd8f0ddead8",
-  "approximations": [
-   "text"
-  ]
+  "approximations": []
  },
  {
   "sheet": "vector",
